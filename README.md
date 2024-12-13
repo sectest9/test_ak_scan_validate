@@ -1,0 +1,2 @@
+# test_ak_scan_validate
+test_ak_scan_validate
